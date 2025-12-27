@@ -8,13 +8,13 @@ export default function Home() {
           Layanan Pesan <span className="text-blue-600">Langsung</span>
         </h1>
         <p className="mt-2 text-lg text-slate-600">
-          Hubungi pemilik layanan dan dapatkan balasan secara real-time.
+          Hubungi Owner Alya Jika WhatsApp Nya Tidak Bisa Di Chat/Terblokir.
         </p>
       </div>
       <MessageForm />
       
       <footer className="mt-20 text-slate-400 text-sm">
-        &copy; 2023 Message App. Powered by Next.js & Firebase.
+        &copy; 2025 Alya Chat.
       </footer>
     </main>
   );
